@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRZiNcMcmDUPazFcWo5d14qoA6nK6RWXfZ9ybRS8diMEZZtxDvf7MOeLnCb+2IUgMstKqYvjfumBl6iSdanlYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oscar\\source\\repos\\ALUMNO_PIA\\ALUMNO_PIA\\ALUMNO_PIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
